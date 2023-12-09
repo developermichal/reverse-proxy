@@ -1,7 +1,0 @@
----
-version: "3.2"
-services:
-  reverse-proxy:
-    image: csm-101/proxy:0.0.50
-    ports:
-      - "8007:8080"
